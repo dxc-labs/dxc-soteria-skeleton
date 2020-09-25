@@ -1,0 +1,2 @@
+# skeleton
+Soteria skeleton component
